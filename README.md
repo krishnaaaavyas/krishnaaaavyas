@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Krishna Vyas 👋
 
-<!--
-**krishnaaaavyas/krishnaaaavyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech Information Technology Student
 
-Here are some ideas to get you started:
+I'm a 3rd-year Information Technology student passionate about software development, problem-solving, and building practical technology solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Working On
+
+* Resume Skill Gap Analyzer (Python, Streamlit, NLP)
+* UI-to-Code Generator (MERN Stack + AI Integration)
+* Data Structures & Algorithms
+
+### Tech Stack
+
+**Languages**
+
+* C
+* C++
+* Python
+* JavaScript
+
+**Web Development**
+
+* HTML
+* CSS
+* React.js
+* Node.js
+* Express.js
+* MongoDB
+
+**Core CS**
+
+* Data Structures & Algorithms
+* DBMS
+* Operating Systems
+* Computer Networks
+* Object-Oriented Programming
+
+**Tools**
+
+* Git
+* GitHub
+* VS Code
+* Postman
+
+### Projects
+
+#### Resume Skill Gap Analyzer
+
+Analyzes resumes against job descriptions and identifies missing skills using NLP techniques, TF-IDF vectorization, and similarity scoring.
+
+#### UI-to-Code Generator (Ongoing)
+
+Building a platform that converts UI mockups into frontend code using AI-assisted workflows.
+
+### Connect With Me
+
+* LinkedIn: linkedin.com/in/krishna-vyas-7bba15319/
+* Email: [krishnav8602@gmail.com](mailto:krishnav8602@gmail.com)
