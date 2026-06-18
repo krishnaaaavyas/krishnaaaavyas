@@ -1,59 +1,59 @@
 # Hi, I'm Krishna Vyas 👋
 
-### B.Tech Information Technology Student
+🎓 B.Tech Information Technology Student
 
-I'm a 3rd-year Information Technology student passionate about software development, problem-solving, and building practical technology solutions.
+💻 Full Stack Developer | AI Enthusiast
 
-### Currently Working On
+## About Me
 
-* Resume Skill Gap Analyzer (Python, Streamlit, NLP)
-* UI-to-Code Generator (MERN Stack + AI Integration)
-* Data Structures & Algorithms
+I'm passionate about building practical software solutions using modern web technologies and AI.
 
-### Tech Stack
+Currently working on:
+
+* HealthGuard AI
+* Resume Skill Gap Analyzer
+* UI-to-Code Generator
+
+## Tech Stack
 
 **Languages**
 
-* C
-* C++
-* Python
-* JavaScript
+* C, C++, Python, JavaScript
 
 **Web Development**
 
-* HTML
-* CSS
-* React.js
-* Node.js
-* Express.js
-* MongoDB
+* React.js, Node.js, Express.js, MongoDB
+* HTML, CSS, Tailwind CSS
 
-**Core CS**
+**AI & ML**
 
-* Data Structures & Algorithms
-* DBMS
-* Operating Systems
-* Computer Networks
-* Object-Oriented Programming
+* Gemini AI
+* Scikit-learn
+* NLP
+* Machine Learning
 
 **Tools**
 
-* Git
-* GitHub
-* VS Code
-* Postman
+* Git, GitHub, VS Code, Postman
 
-### Projects
+## Featured Projects
 
-#### Resume Skill Gap Analyzer
+### HealthGuard AI
 
-Analyzes resumes against job descriptions and identifies missing skills using NLP techniques, TF-IDF vectorization, and similarity scoring.
+AI-powered healthcare platform for assessing metabolic and cardiovascular health risks.
 
-#### UI-to-Code Generator (Ongoing)
+### Resume Skill Gap Analyzer
 
-Building a platform that converts UI mockups into frontend code using AI-assisted workflows.
+Analyzes resumes against job descriptions using NLP techniques and similarity scoring.
 
-### Connect With Me
+### UI-to-Code Generator
 
-* LinkedIn: linkedin.com/in/krishna-vyas-7bba15319/
-* Email: [krishnav8602@gmail.com](mailto:krishnav8602@gmail.com)
+AI-assisted platform that converts UI mockups into frontend code.
+
+## Connect With Me
+
+📧 [krishnav8602@gmail.com](mailto:krishnav8602@gmail.com)
+
+🔗 LinkedIn: linkedin.com/in/krishna-vyas-7bba15319/
+
+
