@@ -1,59 +1,121 @@
 # Hi, I'm Krishna Vyas 👋
 
-🎓 B.Tech Information Technology Student
+### Software Developer | Full-Stack Web Development | Applied AI & ML
 
-💻 Full Stack Developer | AI Enthusiast
+I'm a B.Tech Information Technology student focused on building practical, reliable, and user-centered software.
 
-## About Me
+I work across frontend development, backend APIs, databases, and applied AI. I enjoy taking an idea from its initial problem statement to a complete working product—designing the user experience, structuring the application, implementing the logic, testing edge cases, improving performance, and deploying it.
 
-I'm passionate about building practical software solutions using modern web technologies and AI.
+My goal is not just to make projects that work, but to understand **why they work, where they fail, and how they can be engineered better**.
 
-Currently working on:
+## What I'm Currently Focused On
 
-* HealthGuard AI
-* Resume Skill Gap Analyzer
-* UI-to-Code Generator
+- Strengthening Data Structures and Algorithms
+- Building scalable full-stack applications
+- Improving backend architecture and API design
+- Learning Machine Learning and NLP from first principles
+- Developing AI features beyond simple API wrappers
+- Writing cleaner, testable, and maintainable code
+- Understanding system design and production-level engineering
 
-## Tech Stack
+## Technical Skills
 
-**Languages**
+### Languages
 
-* C, C++, Python, JavaScript
+- C
+- C++
+- Python
+- JavaScript
+- Basic Java
 
-**Web Development**
+### Frontend Development
 
-* React.js, Node.js, Express.js, MongoDB
-* HTML, CSS, Tailwind CSS
+- React.js
+- HTML5
+- CSS3
+- Tailwind CSS
+- Vite
+- Responsive Web Design
 
-**AI & ML**
+### Backend and Databases
 
-* Gemini AI
-* Scikit-learn
-* NLP
-* Machine Learning
+- Node.js
+- Express.js
+- REST APIs
+- MongoDB
+- Firebase Authentication
+- Firestore
 
-**Tools**
+### AI, Machine Learning and Data
 
-* Git, GitHub, VS Code, Postman
+- Scikit-learn
+- Natural Language Processing
+- TF-IDF and Cosine Similarity
+- Rule-Based NLP Systems
+- Gemini API Integration
+- Pandas
+- NumPy
+- Streamlit
 
-## Featured Projects
+### Computer Science Foundations
+
+- Data Structures and Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- Operating Systems
+- Computer Networks
+
+### Tools and Deployment
+
+- Git and GitHub
+- VS Code
+- Postman
+- Vercel
+- Render
+- Firebase
+- Streamlit Cloud
+
+## How I Approach Development
+
+I try to treat every project as an engineering problem rather than only a coding exercise.
+
+My usual process includes:
+
+1. Understanding the real problem and user requirements
+2. Designing the application flow and architecture
+3. Building a functional version
+4. Testing edge cases and failure scenarios
+5. Measuring performance and identifying weak points
+6. Refactoring the code for clarity and maintainability
+7. Deploying and validating the application in a real environment
+
+## Selected Projects
 
 ### HealthGuard AI
 
-AI-powered healthcare platform for assessing metabolic and cardiovascular health risks.
+A preventive healthcare platform that combines deterministic health-risk calculations, personalized recommendations, authentication, data persistence, and AI-generated explanations.
 
 ### Resume Skill Gap Analyzer
 
-Analyzes resumes against job descriptions using NLP techniques and similarity scoring.
+A tested NLP-based application that extracts canonical skills, handles aliases and negations, evaluates evidence strength, and compares resumes with job descriptions.
 
-### UI-to-Code Generator
+### UI-to-Code Platform
 
-AI-assisted platform that converts UI mockups into frontend code.
+A full-stack platform exploring how visual interface designs can be converted into reusable frontend code through structured processing and AI-assisted generation.
 
-## Connect With Me
+## GitHub Goals
 
-📧 [krishnav8602@gmail.com](mailto:krishnav8602@gmail.com)
+Through this GitHub profile, I document:
 
-🔗 LinkedIn: linkedin.com/in/krishna-vyas-7bba15319/
+- Projects I build
+- Engineering decisions I make
+- Bugs and limitations I discover
+- Concepts I learn
+- Improvements I make through testing and iteration
 
+I believe strong developers are not defined only by the number of technologies they know, but by their ability to understand problems, reason about trade-offs, and continuously improve their solutions.
 
+## Let's Connect
+
+- 📧 Email: [krishnav8602@gmail.com](mailto:krishnav8602@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/krishna vyas](https://www.linkedin.com/in/krishna-vyas-7bba15319/)
