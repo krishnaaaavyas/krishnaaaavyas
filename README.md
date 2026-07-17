@@ -1,121 +1,122 @@
 # Hi, I'm Krishna Vyas 👋
 
-### Software Developer | Full-Stack Web Development | Applied AI & ML
+### AI/ML-Focused Software Developer | Python • NLP • Full-Stack Engineering
 
-I'm a B.Tech Information Technology student focused on building practical, reliable, and user-centered software.
+I'm a B.Tech Information Technology student building practical software at the intersection of **machine learning, natural language processing, and web development**.
 
-I work across frontend development, backend APIs, databases, and applied AI. I enjoy taking an idea from its initial problem statement to a complete working product—designing the user experience, structuring the application, implementing the logic, testing edge cases, improving performance, and deploying it.
+My current focus is developing strong machine-learning foundations rather than relying only on pre-built AI APIs. I learn by implementing concepts, testing edge cases, measuring results, and gradually turning experiments into usable software.
 
-My goal is not just to make projects that work, but to understand **why they work, where they fail, and how they can be engineered better**.
+## AI & Machine Learning Focus
 
-## What I'm Currently Focused On
+I am currently working on:
 
-- Strengthening Data Structures and Algorithms
-- Building scalable full-stack applications
-- Improving backend architecture and API design
-- Learning Machine Learning and NLP from first principles
-- Developing AI features beyond simple API wrappers
-- Writing cleaner, testable, and maintainable code
-- Understanding system design and production-level engineering
+- Machine learning fundamentals and model evaluation
+- Text preprocessing and feature extraction
+- Natural Language Processing
+- Rule-based and statistical NLP systems
+- Neural networks and optimization from first principles
+- Building reliable interfaces around AI/ML systems
+- Testing and evaluating intelligent software
+
+### Methods I Have Used
+
+- TF-IDF feature extraction
+- Cosine similarity
+- Text normalization and tokenization
+- Canonical entity and skill extraction
+- Alias-aware phrase matching
+- Negation detection
+- Rule-based evidence classification
+- Regression and integration testing
 
 ## Technical Skills
 
-### Languages
+| Area | Technologies and concepts used |
+|---|---|
+| Programming | Python, C++, C, JavaScript |
+| Machine Learning & NLP | Scikit-learn, TF-IDF, cosine similarity, rule-based NLP, text preprocessing |
+| Data | Pandas, NumPy |
+| Frontend | React.js, HTML, CSS, Tailwind CSS, Vite |
+| Backend | Node.js, Express.js, REST APIs |
+| Databases & Cloud | MongoDB, Firebase Authentication, Firestore |
+| Application Development | Streamlit, Gemini API integration |
+| Developer Tools | Git, GitHub, VS Code, Postman |
+| Deployment | Vercel, Render, Streamlit Cloud |
 
-- C
-- C++
-- Python
-- JavaScript
-- Basic Java
+> Currently strengthening my knowledge of supervised learning, feature engineering, evaluation metrics, neural networks and production-oriented ML development.
 
-### Frontend Development
-
-- React.js
-- HTML5
-- CSS3
-- Tailwind CSS
-- Vite
-- Responsive Web Design
-
-### Backend and Databases
-
-- Node.js
-- Express.js
-- REST APIs
-- MongoDB
-- Firebase Authentication
-- Firestore
-
-### AI, Machine Learning and Data
-
-- Scikit-learn
-- Natural Language Processing
-- TF-IDF and Cosine Similarity
-- Rule-Based NLP Systems
-- Gemini API Integration
-- Pandas
-- NumPy
-- Streamlit
-
-### Computer Science Foundations
-
-- Data Structures and Algorithms
-- Object-Oriented Programming
-- Database Management Systems
-- Operating Systems
-- Computer Networks
-
-### Tools and Deployment
-
-- Git and GitHub
-- VS Code
-- Postman
-- Vercel
-- Render
-- Firebase
-- Streamlit Cloud
-
-## How I Approach Development
-
-I try to treat every project as an engineering problem rather than only a coding exercise.
-
-My usual process includes:
-
-1. Understanding the real problem and user requirements
-2. Designing the application flow and architecture
-3. Building a functional version
-4. Testing edge cases and failure scenarios
-5. Measuring performance and identifying weak points
-6. Refactoring the code for clarity and maintainability
-7. Deploying and validating the application in a real environment
-
-## Selected Projects
-
-### HealthGuard AI
-
-A preventive healthcare platform that combines deterministic health-risk calculations, personalized recommendations, authentication, data persistence, and AI-generated explanations.
+## Featured Work
 
 ### Resume Skill Gap Analyzer
 
-A tested NLP-based application that extracts canonical skills, handles aliases and negations, evaluates evidence strength, and compares resumes with job descriptions.
+A tested NLP-based application that compares resumes with job descriptions.
+
+Current capabilities include:
+
+- Canonical skill and alias extraction
+- Multiword skill detection
+- Java versus JavaScript and C versus C++ disambiguation
+- Sentence-level evidence extraction
+- High, medium, low and rejected evidence levels
+- Negation handling
+- Strongest-evidence selection
+- TF-IDF and cosine-similarity scoring
+- 22 automated regression, evidence and integration tests
+
+**Built with:** Python, Scikit-learn, NLP rules and Streamlit
+
+---
+
+### HealthGuard AI
+
+A preventive healthcare application combining deterministic health-risk calculations with personalized AI-generated explanations.
+
+The project includes:
+
+- Structured health assessments
+- Cardiovascular and metabolic risk calculations
+- Risk-driver explanations
+- Personalized recommendations
+- Firebase authentication and data storage
+- React-based user interface
+
+**Built with:** React, TypeScript, Firebase and Gemini API
+
+---
 
 ### UI-to-Code Platform
 
-A full-stack platform exploring how visual interface designs can be converted into reusable frontend code through structured processing and AI-assisted generation.
+A full-stack project exploring the structured conversion of visual interface inputs into reusable frontend code.
 
-## GitHub Goals
+The project focuses on:
 
-Through this GitHub profile, I document:
+- Visual editor interactions
+- Structured component representation
+- Frontend-code generation
+- Full-stack application architecture
 
-- Projects I build
-- Engineering decisions I make
-- Bugs and limitations I discover
-- Concepts I learn
-- Improvements I make through testing and iteration
+**Built with:** React, Node.js, Express.js and MongoDB
 
-I believe strong developers are not defined only by the number of technologies they know, but by their ability to understand problems, reason about trade-offs, and continuously improve their solutions.
+## Currently Learning
 
-## Let's Connect
+- Classical machine-learning algorithms
+- Model training and evaluation
+- Feature engineering
+- Mathematics behind neural networks
+- Deep-learning foundations
+- ML system design
+- Data structures and algorithms
 
-- 📧 Email: [krishnav8602@gmail.com](mailto:krishnav8602@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/krishna vyas](https://www.linkedin.com/in/krishna-vyas-7bba15319/)
+## What You Will Find Here
+
+- AI/ML learning implementations
+- NLP experiments
+- Full-stack projects
+- Tested software components
+- Project architecture and technical documentation
+- Honest notes about limitations and future improvements
+
+## Connect With Me
+
+- 📧 [krishnav8602@gmail.com](mailto:krishnav8602@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/krishna-vyas-7bba15319/)
