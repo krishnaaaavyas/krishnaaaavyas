@@ -40,7 +40,6 @@
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 </p>
 
@@ -48,7 +47,3 @@
 
 > I enjoy building software that does not just work, but can also be tested, explained, and improved.
 
-## Connect With Me
-
-- 📧 [krishnav8602@gmail.com](mailto:krishnav8602@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/krishna-vyas-7bba15319/)
