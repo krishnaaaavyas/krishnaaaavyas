@@ -1,120 +1,52 @@
-# Hi, I'm Krishna Vyas 👋
+<h1 align="center">Hi 👋, I'm Krishna Vyas</h1>
 
-### AI/ML-Focused Software Developer | Python • NLP • Full-Stack Engineering
-
-I'm a B.Tech Information Technology student building practical software at the intersection of **machine learning, natural language processing, and web development**.
-
-My current focus is developing strong machine-learning foundations rather than relying only on pre-built AI APIs. I learn by implementing concepts, testing edge cases, measuring results, and gradually turning experiments into usable software.
-
-## AI & Machine Learning Focus
-
-I am currently working on:
-
-- Machine learning fundamentals and model evaluation
-- Text preprocessing and feature extraction
-- Natural Language Processing
-- Rule-based and statistical NLP systems
-- Neural networks and optimization from first principles
-- Building reliable interfaces around AI/ML systems
-- Testing and evaluating intelligent software
-
-### Methods I Have Used
-
-- TF-IDF feature extraction
-- Cosine similarity
-- Text normalization and tokenization
-- Canonical entity and skill extraction
-- Alias-aware phrase matching
-- Negation detection
-- Rule-based evidence classification
-- Regression and integration testing
-
-## Technical Skills
-
-| Area | Technologies and concepts used |
-|---|---|
-| Programming | Python, C++, C, JavaScript |
-| Machine Learning & NLP | Scikit-learn, TF-IDF, cosine similarity, rule-based NLP, text preprocessing |
-| Data | Pandas, NumPy |
-| Frontend | React.js, HTML, CSS, Tailwind CSS, Vite |
-| Backend | Node.js, Express.js, REST APIs |
-| Databases & Cloud | MongoDB, Firebase Authentication, Firestore |
-| Application Development | Streamlit, Gemini API integration |
-| Developer Tools | Git, GitHub, VS Code, Postman |
-| Deployment | Vercel, Render, Streamlit Cloud |
-
-> Currently strengthening my knowledge of supervised learning, feature engineering, evaluation metrics, neural networks and production-oriented ML development.
-
-## Featured Work
-
-### Resume Skill Gap Analyzer
-
-A tested NLP-based application that compares resumes with job descriptions.
-
-Current capabilities include:
-
-- Canonical skill and alias extraction
-- Multiword skill detection
-- Java versus JavaScript and C versus C++ disambiguation
-- Sentence-level evidence extraction
-- High, medium, low and rejected evidence levels
-- Negation handling
-- Strongest-evidence selection
-- TF-IDF and cosine-similarity scoring
-- 22 automated regression, evidence and integration tests
-
-**Built with:** Python, Scikit-learn, NLP rules and Streamlit
+<h3 align="center">AI/ML-Focused Software Developer | Python • NLP • Full-Stack Engineering</h3>
 
 ---
 
-### HealthGuard AI
+- 🌱 Currently strengthening my foundations in **Machine Learning, model evaluation, neural networks, and DSA**
 
-A preventive healthcare application combining deterministic health-risk calculations with personalized AI-generated explanations.
+- 🧠 Building a **Resume Skill Gap Analyzer** using rule-based NLP, TF-IDF, evidence classification, negation handling, and automated testing
 
-The project includes:
+- 🩺 Developing **HealthGuard AI**, a preventive healthcare platform combining deterministic risk calculations with AI-generated explanations
 
-- Structured health assessments
-- Cardiovascular and metabolic risk calculations
-- Risk-driver explanations
-- Personalized recommendations
-- Firebase authentication and data storage
-- React-based user interface
+- 🧩 Exploring structured UI interpretation and frontend code generation through my **UI-to-Code Platform**
 
-**Built with:** React, TypeScript, Firebase and Gemini API
+- 💻 Comfortable building complete applications using **React, Node.js, Express, MongoDB, Firebase, and Streamlit**
+
+- 🎯 Interested in **AI/ML, NLP, intelligent software systems, and full-stack product development**
+
+- 💬 Ask me about **Python, NLP, React, Firebase, REST APIs, or testing rule-based AI systems**
+
+## Languages and Toolkit
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+</p>
 
 ---
 
-### UI-to-Code Platform
-
-A full-stack project exploring the structured conversion of visual interface inputs into reusable frontend code.
-
-The project focuses on:
-
-- Visual editor interactions
-- Structured component representation
-- Frontend-code generation
-- Full-stack application architecture
-
-**Built with:** React, Node.js, Express.js and MongoDB
-
-## Currently Learning
-
-- Classical machine-learning algorithms
-- Model training and evaluation
-- Feature engineering
-- Mathematics behind neural networks
-- Deep-learning foundations
-- ML system design
-- Data structures and algorithms
-
-## What You Will Find Here
-
-- AI/ML learning implementations
-- NLP experiments
-- Full-stack projects
-- Tested software components
-- Project architecture and technical documentation
-- Honest notes about limitations and future improvements
+> I enjoy building software that does not just work, but can also be tested, explained, and improved.
 
 ## Connect With Me
 
